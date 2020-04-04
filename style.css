@@ -37,7 +37,9 @@ nav {
   width:800px;
 }
 
-.details {
+#details {
   display: block;
-  
+}
+#details > div {
+  float: left;
 }
