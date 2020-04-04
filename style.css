@@ -16,9 +16,7 @@ h1 {
 }
 
 figcaption {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  text-align: center;
 }
 
 nav {
