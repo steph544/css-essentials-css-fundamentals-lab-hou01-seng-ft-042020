@@ -14,12 +14,11 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 }
-
+nav {
+  text-align: center;
+}
 .link {
   background-color: grey;
   padding-left: 10px;
   padding-right: 10px;
-}
-nav {
-  text-align: center;
 }
