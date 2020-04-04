@@ -9,7 +9,7 @@ h1 {
   text-align: center;
 }
 
-img.center {
+.center {
 display: block;
 margin-left: auto;
 margin-right: auto;
@@ -19,6 +19,4 @@ margin-right: auto;
   background-color: grey;
   padding-left: 10px;
   padding-right: 10px;
-  margin-left: auto;
-  margin-right: auto;
 }
